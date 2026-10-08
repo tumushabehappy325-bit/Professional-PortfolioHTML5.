@@ -26,7 +26,7 @@ A five-page semantic HTML5 portfolio for Team D Coders, a software engineering a
 - `contact.html`: labelled contact form
 
 ## Folders
-- `images/`: wireframes, sitemap and the video poster
+- `images/`: wireframes, sitemap, and the video poster
 - `videos/`: page tour (MP4) and its captions (VTT)
 - `design/`: design document with sitemap and wireframes (PNG, PDF, SVG)
 
